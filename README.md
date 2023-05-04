@@ -3,6 +3,7 @@
 ## Authors
 
 Micah Fadrigo: mfadrigo@uci.edu
+
 Cecilia Nguyen: cecilin5@uci.edu
 
 ## Content
