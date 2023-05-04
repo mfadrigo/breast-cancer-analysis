@@ -11,6 +11,9 @@ Cecilia Nguyen: cecilin5@uci.edu
 The models, graphs, tables (and the code for them) for the analyses performed can be found:
 - [Breast Cancer Analysis](breast_cancer_analysis.ipynb)  
 
+A more in-depth description of the project goal, our model choices, and conclusion can be found:
+- [Breast Cancer Analysis Report](final-report.pdf) 
+
 
 ## Data
 
